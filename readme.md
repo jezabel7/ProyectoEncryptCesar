@@ -60,4 +60,8 @@ El producto EncryptCésar resuelve los problemas de los usuarios de las siguient
 - **Desplazamiento**: 3
 - **Mensaje Cifrado**: "KRÑD PXQGR"
 
-EncryptCésar es una herramienta versátil y educativa que hace que la criptografía sea accesible para todos, desde estudiantes y profesores hasta parejas y amigos que desean mantener sus comunicaciones privadas.
+### Participantes del Proyecto 
+
+Jezabel Tamara Rodriguez Gonzalez
+Wendy Huayhua Lopez
+Valeria Peralta Velasquez
